@@ -1,4 +1,4 @@
-# bun_destructuring_assignment
+# destructuring_assignment
 
 This is a ribozitry for a bug report on Bun.
 
